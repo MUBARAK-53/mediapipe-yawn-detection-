@@ -67,11 +67,11 @@ Where
 
 ### Input
 
-![Input](Images/input.png)
+![Input](Images/Output1.png)
 
 ### Output
 
-![Output](Images/output.png)
+![Output](Images/Output2.png)
 
 ## Future Improvements
 
